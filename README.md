@@ -1,3 +1,3 @@
 # musicWebsite
 
-Simple music website made using HTML and CSS
+Simple music website made using HTML, CSS and Javascript
